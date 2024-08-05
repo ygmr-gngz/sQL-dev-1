@@ -1,4 +1,4 @@
-# sQL-dev-1
+# sQL-ödev-1
 
 SELECT title, description FROM film;
 
